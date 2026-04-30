@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/Vantiv/payfac-mp-sdk-dotnet.svg?branch=13.x)](https://travis-ci.org/Vantiv/payfac-mp-sdk-dotnet)
-![Github All Releases](https://img.shields.io/github/downloads/vantiv/payfac-mp-sdk-java/total.svg)
-[![GitHub](https://img.shields.io/github/license/vantiv/payfac-mp-sdk-java.svg)](https://github.com/Worldpay/payfac-mp-sdk-dotnet/blob/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/vantiv/payfac-mp-sdk-java.svg)](https://github.com/Worldpay/payfac-mp-sdk-java/issues)
+![Github All Releases](https://img.shields.io/github/downloads/worldpay/payfac-mp-sdk-java/total.svg)
+[![GitHub](https://img.shields.io/github/license/worldpay/payfac-mp-sdk-java.svg)](https://github.com/Worldpay/payfac-mp-sdk-dotnet/blob/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/vantiv/payfac-mp-sdk-java.svg)](https://github.com/Worldpay/payfac-mp-sdk-java/issues)
 
 # payfac-mp-sdk-dotnet
 
