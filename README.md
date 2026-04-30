@@ -2,7 +2,7 @@
 ![Github All Releases](https://img.shields.io/github/downloads/worldpay/payfac-mp-sdk-dotnet/total.svg)
 [![GitHub](https://img.shields.io/github/license/worldpay/payfac-mp-sdk-dotnet.svg)](https://github.com/Worldpay/payfac-mp-sdk-dotnet/blob/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/worldpay/payfac-mp-sdk-dotnet.svg)](https://github.com/Worldpay/payfac-mp-sdk-dotnet/issues)
 
-# payfac-mp-sdk-dotnet 
+# payfac-mp-sdk-dotnet
 
 The PayFac Merchant Provisioner SDK is a C# implementation of the [Worldpay](https://docs.worldpay.com/assets/pdf/Worldpay_eComm_PayFac_API_Reference_Guide_APIV14.1_V4.0.pdf) PayFac Merchant Provisioner API. This SDK was created to make it as easy as possible to perform operations that allows you to create and update Legal Entities and Sub-merchants, as well as retrieve information about existing Legal Entities and Sub-merchants in near real-time. This SDK utilizes the HTTPS protocol to securely connect to Worldpay. Using the SDK requires coordination with the Vantiv eCommerce team in order to be provided with credentials for accessing our systems.
 
@@ -22,10 +22,9 @@ None.
 
 1.) To install it, copy PayFacSdkForNet.dll into your Visual Studio references.
 
-
 2.) You can configure it statically by adding the following section to your project's App.config
 
-?xml version="1.0" encoding="utf-8"?>
+<>?xml version="1.0" encoding="utf-8"?>
 <configuration>
     <configSections>
         <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
