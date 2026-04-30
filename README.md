@@ -131,7 +131,7 @@ Compile and run this file.  You should see the following result:
 ~~~
 
 ## Versioning
-For the versions available, see the [tags on this repository](https://github.com/Worldpay/payfac-mp-sdk-java/tags). 
+For the versions available, see the [tags on this repository](https://github.com/Worldpay/payfac-mp-sdk-dotnet/tags). 
 
 ## Changelog
 For the list of changes, check out the [changelog](https://github.com/Worldpay/payfac-mp-sdk-dotnet/blob/master/CHANGELOG.md)
