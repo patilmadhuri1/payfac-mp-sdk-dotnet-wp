@@ -13,8 +13,8 @@
 Each .NET SDK release supports all of the functionality present in the associated PayFac Merchant Provisioner API version (e.g., SDK v15.0.3 supports API v15.0.3). Please see our documentation for PayFac Merchant Provisioner API to get more details on what operations are supported.
 
 This SDK is implemented to support the .NET plaform, including C#, VB.NET and Managed C++ and is created by Worldpay. Its intended use is for PayFac API operations with Worldpay.</Description>
-        <PackageProjectUrl>https://github.com/Vantiv/payfac-mp-sdk-dotnet</PackageProjectUrl>
-        <PackageLicenseUrl>https://github.com/Vantiv/payfac-mp-sdk-dotnet/blob/15.x/LICENSE</PackageLicenseUrl>
+        <PackageProjectUrl>https://github.com/Worldpay/payfac-mp-sdk-dotnet</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/Worldpay/payfac-mp-sdk-dotnet/blob/15.x/LICENSE</PackageLicenseUrl> 
         <PackageTags>Vantiv eCommerce payments</PackageTags>
     </PropertyGroup>
 	
