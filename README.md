@@ -23,10 +23,7 @@ None.
 1.) To install it, copy PayFacSdkForNet.dll into your Visual Studio references.
 
 
-
-
-
-
+2.) You can configure it statically by adding the following section to your project's App.config
 
 ?xml version="1.0" encoding="utf-8"?>
 <configuration>
