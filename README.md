@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.org/Vantiv/payfac-mp-sdk-dotnet.svg?branch=13.x)](https://travis-ci.org/Vantiv/payfac-mp-sdk-dotnet)
-![Github All Releases](https://img.shields.io/github/downloads/worldpay/payfac-mp-sdk-java/total.svg)
-[![GitHub](https://img.shields.io/github/license/worldpay/payfac-mp-sdk-java.svg)](https://github.com/Worldpay/payfac-mp-sdk-dotnet/blob/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/vantiv/payfac-mp-sdk-java.svg)](https://github.com/Worldpay/payfac-mp-sdk-java/issues)
+![Github All Releases](https://img.shields.io/github/downloads/worldpay/payfac-mp-sdk-dotnet/total.svg)
+[![GitHub](https://img.shields.io/github/license/worldpay/payfac-mp-sdk-dotnet.svg)](https://github.com/Worldpay/payfac-mp-sdk-dotnet/blob/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/worldpay/payfac-mp-sdk-dotnet.svg)](https://github.com/Worldpay/payfac-mp-sdk-dotnet/issues)
 
-# payfac-mp-sdk-dotnet
+# payfac-mp-sdk-dotnet 
 
 The PayFac Merchant Provisioner SDK is a C# implementation of the [Worldpay](https://docs.worldpay.com/assets/pdf/Worldpay_eComm_PayFac_API_Reference_Guide_APIV14.1_V4.0.pdf) PayFac Merchant Provisioner API. This SDK was created to make it as easy as possible to perform operations that allows you to create and update Legal Entities and Sub-merchants, as well as retrieve information about existing Legal Entities and Sub-merchants in near real-time. This SDK utilizes the HTTPS protocol to securely connect to Worldpay. Using the SDK requires coordination with the Vantiv eCommerce team in order to be provided with credentials for accessing our systems.
 
